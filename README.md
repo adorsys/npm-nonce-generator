@@ -6,7 +6,8 @@
 [![npm](https://img.shields.io/npm/dm/a-nonce-generator.svg?style=flat-square)](https://www.npmjs.com/package/a-nonce-generator)
 [![license](https://img.shields.io/github/license/adorsys/npm-nonce-generator.svg?style=flat-square)](https://github.com/adorsys/npm-nonce-generator/blob/master/LICENSE)
 
-A generator for creating nonces.
+A generator for creating random nonces.
+It uses the package 'node-jose' for better randomness.
 
 ## Installation
 
