@@ -1,6 +1,6 @@
 {
   "name": "a-nonce-generator",
-  "version": "0.0.0-sementically-released",
+  "version": "0.0.0-development",
   "description": "A generator for nonces",
   "main": "dist/index.js",
   "scripts": {
